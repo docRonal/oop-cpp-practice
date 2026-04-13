@@ -7,11 +7,17 @@ The projects progress from basic C-style memory handling to advanced C++ concept
 
 📂 Repository Structure
     Folder / Project,Key Concepts,Description
+    
     dynamic-stack,"malloc, realloc, LIFO",Custom stack implementation with manual dynamic memory resizing.
+    
     polynomial-class,"Operator Overloading, Rule of Three","A math library for polynomials supporting +, -, * and indexing."
+    
     complex-numbers-lib,"Friend Functions, Math Ops",Implementation of complex number arithmetic and phase/absolute calculations.
+    
     dynamic-stack-advanced,"Exception Handling, Deep Copy","Advanced stack with try-catch logic and strict ""Rule of Three"" compliance."
+    
     cpp-polymorphic-container,"Inheritance, Virtual Methods",Abstract interfaces and limited-size containers using std::vector.
+    
     string-concat-c,"Pointers, C-strings",Basic manual memory allocation and string manipulation.
 🛠 Technical Highlights
 1. Manual Memory Management        
